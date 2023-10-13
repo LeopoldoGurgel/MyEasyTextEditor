@@ -1,7 +1,11 @@
 # J.A.T.E. - My Easy Text Editor
 
+
+
 ## DESCRIPTION
-A text editor built to work entirelyon your web browser, aiming to require as few resources as possible from your machine, while still installable and available without internet connection. But in the end, it is still J.A.T.E., Just Another Text Editor.
+A text editor built to work entirelyon your web browser, aiming to require as few resources as possible from your machine, while still installable and available without internet connection. But in the end, it is still J.A.T.E., Just Another Text Editor.  
+
+Use our app on https://jate-main-emkatffzollheyw4ryao.herokuapp.com/
 
 ## TABLE OF CONTENTS  
 * [Installation](#installation)
